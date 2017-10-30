@@ -1,0 +1,47 @@
+{
+  "game": {
+    "available_factions": [],
+    "event_deck": [],
+    "mission_deck": [],
+    "territory_deck": [
+      {
+        "coins": 1,
+        "territory_name": "ALASKA"
+      },
+      {
+        "coins": 1,
+        "territory_name": "ALBERTA"
+      },
+      {
+        "coins": 1,
+        "territory_name": "CENTRAL_AMERICA"
+      },
+      {
+        "coins": 5,
+        "territory_name": "EASTERN_CANADA"
+      },
+      {
+        "coins": 1,
+        "territory_name": "EASTERN_UNITED_STATES"
+      },
+      {
+        "coins": 1,
+        "territory_name": "GREENLAND"
+      },
+      {
+        "coins": 3,
+        "territory_name": "NORTHWEST_TERRITORY"
+      },
+      {
+        "coins": 2,
+        "territory_name": "ONTARIO"
+      },
+      {
+        "coins": 2,
+        "territory_name": "WESTERN_UNITED_STATES"
+      }
+    ]
+  },
+  "game_name": "The Example of 2017",
+  "board_setup": "example_board.json"
+}

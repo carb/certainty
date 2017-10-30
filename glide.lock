@@ -1,0 +1,29 @@
+hash: daf717f19e3e14b7675442e47332b2afb85aef9336f5f4883730af11e1c1434c
+updated: 2017-10-29T18:18:46.553552019-07:00
+imports:
+- name: go.uber.org/atomic
+  version: 4e336646b2ef9fc6e47be8e21594178f98e5ebcf
+- name: go.uber.org/dig
+  version: f57771ac8fdc4c484fcd111a700659c6282e1509
+- name: go.uber.org/fx
+  version: a47f1657ce04f3d82db1ef230ffbb292b15af0ee
+  subpackages:
+  - internal/fxlog
+  - internal/fxreflect
+  - internal/lifecycle
+- name: go.uber.org/multierr
+  version: 3c4937480c32f4c13a875a1829af76c98ca3d40a
+- name: go.uber.org/zap
+  version: 35aad584952c3e7020db7b839f6b102de6271f89
+  subpackages:
+  - buffer
+  - internal/bufferpool
+  - internal/color
+  - internal/exit
+  - zapcore
+testImports:
+- name: github.com/stretchr/testify
+  version: 2aa2c176b9dab406a6970f6a55f513e8a8c8b18f
+  subpackages:
+  - assert
+  - require

@@ -1,0 +1,181 @@
+{
+  "game": {
+    "available_factions": [
+      {}
+    ],
+    "event_deck": [
+      {}
+    ],
+    "mission_deck": [
+      {}
+    ],
+    "territory_deck": [
+      {
+        "coins": 1,
+        "territory_name": "AFGHANISTAN"
+      },
+      {
+        "coins": 1,
+        "territory_name": "ALASKA"
+      },
+      {
+        "coins": 1,
+        "territory_name": "ALBERTA"
+      },
+      {
+        "coins": 1,
+        "territory_name": "ARGENTINA"
+      },
+      {
+        "coins": 3,
+        "territory_name": "BRAZIL"
+      },
+      {
+        "coins": 2,
+        "territory_name": "CENTRAL_AFRICA"
+      },
+      {
+        "coins": 1,
+        "territory_name": "CENTRAL_AMERICA"
+      },
+      {
+        "coins": 1,
+        "territory_name": "CHINA"
+      },
+      {
+        "coins": 1,
+        "territory_name": "EAST_AFRICA"
+      },
+      {
+        "coins": 4,
+        "territory_name": "EASTERN_AUSTRALIA"
+      },
+      {
+        "coins": 5,
+        "territory_name": "EASTERN_CANADA"
+      },
+      {
+        "coins": 1,
+        "territory_name": "EASTERN_UNITED_STATES"
+      },
+      {
+        "coins": 2,
+        "territory_name": "EGYPT"
+      },
+      {
+        "coins": 2,
+        "territory_name": "GREAT_BRITAIN"
+      },
+      {
+        "coins": 1,
+        "territory_name": "GREENLAND"
+      },
+      {
+        "coins": 2,
+        "territory_name": "ICELAND"
+      },
+      {
+        "coins": 1,
+        "territory_name": "INDIA"
+      },
+      {
+        "coins": 1,
+        "territory_name": "IRKUTSK"
+      },
+      {
+        "coins": 1,
+        "territory_name": "JAPAN"
+      },
+      {
+        "coins": 1,
+        "territory_name": "KAMCHATKA"
+      },
+      {
+        "coins": 1,
+        "territory_name": "MADAGASCAR"
+      },
+      {
+        "coins": 1,
+        "territory_name": "MIDDLE_EAST"
+      },
+      {
+        "coins": 1,
+        "territory_name": "MONGOLIA"
+      },
+      {
+        "coins": 1,
+        "territory_name": "NEW_GUINEA"
+      },
+      {
+        "coins": 2,
+        "territory_name": "NORTHERN_EUROPE"
+      },
+      {
+        "coins": 3,
+        "territory_name": "NORTHWEST_TERRITORY"
+      },
+      {
+        "coins": 4,
+        "territory_name": "NORTH_AFRICA"
+      },
+      {
+        "coins": 2,
+        "territory_name": "ONTARIO"
+      },
+      {
+        "coins": 3,
+        "territory_name": "PERU"
+      },
+      {
+        "coins": 2,
+        "territory_name": "RUSSIA"
+      },
+      {
+        "coins": 4,
+        "territory_name": "SCANDINAVIA"
+      },
+      {
+        "coins": 1,
+        "territory_name": "SIBERIA"
+      },
+      {
+        "coins": 1,
+        "territory_name": "SOUTHEAST_ASIA"
+      },
+      {
+        "coins": 2,
+        "territory_name": "SOUTHERN_EUROPE"
+      },
+      {
+        "coins": 1,
+        "territory_name": "SOUTH_AFRICA"
+      },
+      {
+        "coins": 1,
+        "territory_name": "URAL"
+      },
+      {
+        "coins": 3,
+        "territory_name": "VENEZUELA"
+      },
+      {
+        "coins": 1,
+        "territory_name": "WESTERN_AUSTRALIA"
+      },
+      {
+        "coins": 2,
+        "territory_name": "WESTERN_EUROPE"
+      },
+      {
+        "coins": 2,
+        "territory_name": "WESTERN_UNITED_STATES"
+      },
+      {
+        "coins": 2,
+        "territory_name": "YAKUTSK"
+      }
+    ]
+  },
+  "game_name": "The Disruption of 2017",
+  "board_setup": "standard_board.json"
+}

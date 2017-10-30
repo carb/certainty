@@ -1,0 +1,15 @@
+*.out
+*.test
+*.xml
+*.swp
+.idea/
+*.iml
+*.cov
+*.html
+.tmp/
+.gen/
+/vendor
+/certainty
+/run-me-once.sh
+
+cmd/explore/explore
